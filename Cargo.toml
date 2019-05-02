@@ -1,0 +1,9 @@
+[package]
+name = "joux"
+version = "0.1.0"
+authors = ["DrPeterVanNostrand <jnz@riseup.net>"]
+edition = "2018"
+
+[dependencies]
+pairing = "0.14.2"
+rand = "0.4"
